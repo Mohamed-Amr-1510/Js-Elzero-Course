@@ -41,4 +41,4 @@ document.write(markup);
 
 
 ### Difference Between legacy code and Template Literals :
-![Image](https://github.com/user-attachments/assets/16fd3ee8-f930-4668-9dd0-65f34e6844e5)
+![Image](https://github.com/user-attachments/assets/24282145-9a76-4321-ab72-03aca67662a0)
