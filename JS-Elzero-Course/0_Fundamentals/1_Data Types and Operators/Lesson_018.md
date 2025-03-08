@@ -37,10 +37,10 @@ console.log(11 % 2); // Remove 1
 #### Post Increment :
 1. Print First.
 2. Add Second.
-   
-![Image](https://github.com/user-attachments/assets/1078eecc-f415-4b1f-9b7b-32eada3e875f)
+
+![Image](https://github.com/user-attachments/assets/2231f686-6b19-4004-81f1-2f50285850fc)
 #### Pre Increment :
 1. Add First.
 2. Print Second.
-   
-![Image](https://github.com/user-attachments/assets/90e76dbf-f4b1-4f87-8f38-6a10f4ec6feb)
+
+![Image](https://github.com/user-attachments/assets/04422d73-27af-4d01-aedf-f81811445cd4)
