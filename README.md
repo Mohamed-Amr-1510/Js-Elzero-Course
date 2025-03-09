@@ -4,16 +4,6 @@ This repository contains a summarized version of the **Elzero JavaScript Course*
 
 ---
 
-## How to Use These Notes
-
-You can access the notes in two ways:
-
-1. **On GitHub**: Simply browse through the files in this repository.
-
-2. **Using Obsidian**: If you prefer a more organized and offline experience, you can download the repository and open it in [Obsidian](https://obsidian.md/). Obsidian is a powerful note-taking tool that works seamlessly with Markdown files.
-
----
-
 ## Notes Structure
 
 The notes are organized to help you quickly grasp the key concepts:
@@ -33,6 +23,16 @@ The notes are organized to help you quickly grasp the key concepts:
    - Working with the `window` object.
    - Managing browser history, location, and navigation.
    - Timers and intervals.
+
+---
+
+## How to Use These Notes
+
+You can access the notes in two ways:
+
+1. **On GitHub**: Simply browse through the files in this repository.
+
+2. **Using Obsidian**: If you prefer a more organized and offline experience, you can download the repository and open it in [Obsidian](https://obsidian.md/). Obsidian is a powerful note-taking tool that works seamlessly with Markdown files.
 
 ---
 
