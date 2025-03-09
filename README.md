@@ -38,10 +38,12 @@ You can access the notes in two ways:
 
 ## Important Notes
 
-- The notes are written in **two places**:
-   - As **comments within the code**.
-   - As **explanations under the code** in Markdown format.
-  Make sure to **read both** to get the full context.
+The notes are organized in **two distinct formats** for clarity and convenience:
+
+- **Inline Comments**: Embedded directly within the code to provide context and explanations for specific lines or blocks.
+- **Detailed Explanations**: Written below the code in Markdown format to offer a broader overview and deeper insights into the concepts.
+
+To fully understand the material, make sure to **review both sections**, as they complement each other and provide a comprehensive learning experience.
 - These summaries are designed to be concise and actionable, making them ideal for web pentesters who need to quickly understand JavaScript's role in web application security.
 
 ---
